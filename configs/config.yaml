@@ -1,0 +1,4 @@
+
+fall_threshold: 45       # example: angle threshold for torso
+alert_method: console    # options: console, sms (future)
+camera_index: 0
