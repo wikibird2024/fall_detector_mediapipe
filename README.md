@@ -147,3 +147,6 @@ fall_detector_project/
 ---
 
 Would you like me to generate a **basic scaffold (skeleton)** of this project with sample Python files and stub functions for you to start coding immediately?
+To create and activate a `venv` for Python **3.10** (not 3.13), and ensure your project uses it properly, follow these **step-by-step professional instructions**:
+
+

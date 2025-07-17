@@ -3,4 +3,6 @@ mediapipe==0.10.7
 opencv-python
 numpy
 pyyaml
-freeze
+paho-mqtt
+requests
+twilio
